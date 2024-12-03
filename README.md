@@ -1,15 +1,14 @@
-# CodeClauseInternship_E-commerce-Shopping-Cart
-Aim -
-Develop a simple e-commerce system with product listings, a shopping cart, and
-checkout functionality.
+# E-Commerce Console Base
 
-Description-
-Build a console-based shopping cart application where users can browse products,
-add them to a cart, and complete a purchase.
+It's build on Core Java
 
-Technologies-
-Java, OOP.
-You can use other technologies that you know.
+**Tools: Eclipse**
 
-What You Learn-
-OOP concepts, shopping cart implementation.
+## ScreenShot
+
+![Login Page](screenshots/home.png)
+![Login Page](screenshots/c1.png)
+![Login Page](screenshots/product.png)
+![Login Page](screenshots/add2cart.png)
+![Login Page](screenshots/cart.png)
+![Login Page](screenshots/bill.png)
